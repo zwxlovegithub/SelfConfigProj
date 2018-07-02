@@ -22,5 +22,22 @@
       "794782747387964_801342716731967",
       "794782747387964_801345970064975"
     ]
-  }
+  },
+  "inmobi": {
+    "appId": "39d81c18d2b64c3283dc1a208a073920",
+    "nativeIds": [
+      "1528402332922",
+      "1529832352997"
+    ]
+  },
+  "customNativeAds": [
+    {
+      "clickUrl": "https://play.google.com/store/apps/details?id=com.almightygold.freeads.AttentionTraining",
+      "content": "Training your Concentration, Memory and Attention",
+      "coverImage": "https://raw.githubusercontent.com/zwxlovegithub/SelfConfigProj/master/attentionImage.png",
+      "iconResource": "https://raw.githubusercontent.com/zwxlovegithub/SelfConfigProj/master/attentionIcon.png",
+      "key": "attentionTraining",
+      "title": "Attention Training"
+    }
+  ]
 }

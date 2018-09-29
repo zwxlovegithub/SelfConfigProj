@@ -2,9 +2,7 @@
   "chayeShowRate":"0.0",
   "admob": {
     "appId": "ca-app-pub-3940256099942544~3347511713",
-    "bannerIds": [
-      "ca-app-pub-3940256099942544/6300978111"
-    ],
+    
     "chayeIds": [
       "ca-app-pub-3940256099942544/1033173712"
     ]

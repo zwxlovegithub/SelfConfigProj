@@ -1,10 +1,10 @@
 {
-  "chayeShowRate":"1.0",
+  "chayeShowRate":"0.1",
   "admob": {
-    "appId": "ca-app-pub-3940256099942544~3347511713",
-    "bannerIds":["ca-app-pub-3940256099942544/6300978111"],
+    "appId": "ca-app-pub-5345986483760952~2939926369",
+    "bannerIds":["ca-app-pub-5345986483760952/6496027992"],
     "chayeIds": [
-      "ca-app-pub-3940256099942544/1033173712"
+      "ca-app-pub-5345986483760952/6388216781"
     ]
   }
 }

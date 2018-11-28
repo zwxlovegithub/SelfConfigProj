@@ -1,5 +1,11 @@
 {
   "chayeShowRate":"0.1",
+  "facebook": {
+    "appId": "",
+    "chayeIds": [
+      "918443531687446_918447195020413"
+    ]
+  },
   "admob": {
     "appId": "ca-app-pub-5345986483760952~2939926369",
     "bannerIds":["ca-app-pub-5345986483760952/6496027992"],
